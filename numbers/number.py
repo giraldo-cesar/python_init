@@ -1,5 +1,5 @@
 def add(a, b):
-    pass
+    return a + b + c
 
 
 def is_even(n):
